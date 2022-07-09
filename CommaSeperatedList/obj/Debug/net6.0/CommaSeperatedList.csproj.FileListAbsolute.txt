@@ -1,0 +1,15 @@
+C:\Users\nitesh\Desktop\C#\CommaSeperatedList\CommaSeperatedList\bin\Debug\net6.0\CommaSeperatedList.exe
+C:\Users\nitesh\Desktop\C#\CommaSeperatedList\CommaSeperatedList\bin\Debug\net6.0\CommaSeperatedList.deps.json
+C:\Users\nitesh\Desktop\C#\CommaSeperatedList\CommaSeperatedList\bin\Debug\net6.0\CommaSeperatedList.runtimeconfig.json
+C:\Users\nitesh\Desktop\C#\CommaSeperatedList\CommaSeperatedList\bin\Debug\net6.0\CommaSeperatedList.dll
+C:\Users\nitesh\Desktop\C#\CommaSeperatedList\CommaSeperatedList\bin\Debug\net6.0\CommaSeperatedList.pdb
+C:\Users\nitesh\Desktop\C#\CommaSeperatedList\CommaSeperatedList\obj\Debug\net6.0\CommaSeperatedList.csproj.AssemblyReference.cache
+C:\Users\nitesh\Desktop\C#\CommaSeperatedList\CommaSeperatedList\obj\Debug\net6.0\CommaSeperatedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitesh\Desktop\C#\CommaSeperatedList\CommaSeperatedList\obj\Debug\net6.0\CommaSeperatedList.AssemblyInfoInputs.cache
+C:\Users\nitesh\Desktop\C#\CommaSeperatedList\CommaSeperatedList\obj\Debug\net6.0\CommaSeperatedList.AssemblyInfo.cs
+C:\Users\nitesh\Desktop\C#\CommaSeperatedList\CommaSeperatedList\obj\Debug\net6.0\CommaSeperatedList.csproj.CoreCompileInputs.cache
+C:\Users\nitesh\Desktop\C#\CommaSeperatedList\CommaSeperatedList\obj\Debug\net6.0\CommaSeperatedList.dll
+C:\Users\nitesh\Desktop\C#\CommaSeperatedList\CommaSeperatedList\obj\Debug\net6.0\refint\CommaSeperatedList.dll
+C:\Users\nitesh\Desktop\C#\CommaSeperatedList\CommaSeperatedList\obj\Debug\net6.0\CommaSeperatedList.pdb
+C:\Users\nitesh\Desktop\C#\CommaSeperatedList\CommaSeperatedList\obj\Debug\net6.0\CommaSeperatedList.genruntimeconfig.cache
+C:\Users\nitesh\Desktop\C#\CommaSeperatedList\CommaSeperatedList\obj\Debug\net6.0\ref\CommaSeperatedList.dll
